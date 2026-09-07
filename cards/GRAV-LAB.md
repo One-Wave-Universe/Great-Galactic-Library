@@ -3,9 +3,9 @@
 - **id:** GGL-001
 - **repo:** https://github.com/One-Wave-Universe/GRAV-LAB
 - **layer:** field
-- **one sentence:** Magnetism is the local lock; gravity is the slow envelope; κ is the claim.
-- **may touch:** HEX-SPLIT geometry, GCAC thermal-later notes, kitchen magnets
-- **may not touch:** claiming dark matter is solved because a PDF said MEG
-- **falsifier:** shielded dynamic test stays null at the coupling we care about
+- **one sentence:** One lattice, two outfits. Point rotation plus parent proximity lock. No weak-field frame.
+- **may touch:** HEX-SPLIT geometry, GCAC hold belt, kitchen magnets, parent_lock.py
+- **may not touch:** GEM footnotes, "tiny correction to Einstein," calling κ settled
+- **falsifier:** insulator child locks on the same clock as magnetized twin — alignment was a passenger; or parent_lock.py never sits in the hold belt
 - **gate:** GREEN
 - **last kick:** 2026-09-07
