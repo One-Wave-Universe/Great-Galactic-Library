@@ -1,6 +1,8 @@
 # Runtime
 
-Runtime is one tick on one hexagon. Six nouns. No Gate-7. No branded gate.
+The same six steps everywhere. HEX-SPLIT `SIX.md`.
+
+This file is not a second six. It is how one step of that cycle is allowed to land.
 
 ## The tick
 
@@ -12,6 +14,8 @@ hallway  one midline of the three   the other two stay shut
 stamp    commit or quit             opposed writes → quit
 show     body may hit / speak       only after stamp = commit
 ```
+
+A tick advances **one** of the six, or sits on zero. It does not invent step seven.
 
 ## Field
 
@@ -37,7 +41,7 @@ Field proposes. Field does not stamp. Field does not speak for the other `1`.
 ## Illegal sentences
 
 - Gate-7 anything
-- GCAC is the write
+- a seventh step
 - Field is the GPU
 - Field stamps
 - Dream decided
@@ -53,6 +57,6 @@ Quit is a failed stamp.
 
 ## Falsify
 
-A tick that needs Gate-7 or a brand name to explain itself.
+A tick that needs a seventh step.
 A show with no stamp.
 A stamp from Field / GPU.
