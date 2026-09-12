@@ -10,7 +10,8 @@ No control but self-control. The library does not decide. It remembers where the
 
 | card | repo / home | job |
 |---|---|---|
-| [GRAV-LAB](cards/GRAV-LAB.md) | [GRAV-LAB](https://github.com/One-Wave-Universe/GRAV-LAB) | magnetism ↔ gravity lock |
+| [SUPERFLUID-LATTICE](cards/SUPERFLUID-LATTICE.md) | HEX-SPLIT `LATTICE.md` | medium: crystal + fluid; time = κ cost |
+| [GRAV-LAB](cards/GRAV-LAB.md) | [GRAV-LAB](https://github.com/One-Wave-Universe/GRAV-LAB) | lock servo on that fluid |
 | [HEX-SPLIT](cards/HEX-SPLIT.md) | [HEX-SPLIT](https://github.com/One-Wave-Universe/HEX-SPLIT) | hexagon → six pyramids + 12-tone clock |
 | [FIFTHS](cards/FIFTHS.md) | overlay on HEX-SPLIT `clock.json` | +7 weave / +6 flip |
 | [CLOCK-SYNC](cards/CLOCK-SYNC.md) | HEX-SPLIT `SYNC.md` | one-wave-clock/1 wire |
