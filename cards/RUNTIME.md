@@ -3,9 +3,9 @@
 - **id:** GGL-011
 - **repo:** https://github.com/One-Wave-Universe/Great-Galactic-Library/blob/main/RUNTIME.md
 - **layer:** pipeline
-- **one sentence:** One job each — Field proposes, Void oversees, M4 routes, Gate-7 commits, GCAC bits, Dream lists, BUCKET earns speech, Hive Pipe carries.
-- **may touch:** every bench, as a map only
-- **may not touch:** giving Hive Pipe a vote, merging M4 with Gate-7, letting Dream decide
-- **falsifier:** a GPU packet commits phase, or two roster names are required to describe one act
+- **one sentence:** A tick is site, zero, write, hallway, stamp, show. Tools serve those nouns. Tools are not organs.
+- **may touch:** HEX-SPLIT slice, GCAC write, BUCKET show
+- **may not touch:** Field=GPU, Void=CPU, Hive Pipe as a boss
+- **falsifier:** a tick that needs a seventh noun, or a show with no stamp
 - **gate:** GREEN
 - **last kick:** 2026-09-12
