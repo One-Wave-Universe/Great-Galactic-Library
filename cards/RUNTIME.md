@@ -3,9 +3,9 @@
 - **id:** GGL-011
 - **repo:** https://github.com/One-Wave-Universe/Great-Galactic-Library/blob/main/RUNTIME.md
 - **layer:** pipeline
-- **one sentence:** A tick is site, zero, write, hallway, stamp, show. Tools serve those nouns. Tools are not organs.
-- **may touch:** HEX-SPLIT slice, GCAC write, BUCKET show
-- **may not touch:** Field=GPU, Void=CPU, Hive Pipe as a boss
-- **falsifier:** a tick that needs a seventh noun, or a show with no stamp
+- **one sentence:** A tick is site, zero, write, hallway, stamp, show. Field is Dream for the 1. No Gate-7.
+- **may touch:** HEX-SPLIT slice, MOSFET write, BUCKET show
+- **may not touch:** Gate-7, branded gates as organs, Field=GPU
+- **falsifier:** a tick that needs Gate-7 or a seventh noun
 - **gate:** GREEN
 - **last kick:** 2026-09-12
