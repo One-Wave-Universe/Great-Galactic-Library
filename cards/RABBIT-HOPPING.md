@@ -9,3 +9,4 @@
 - **falsifier:** A changes source rank when its center changes; a negative mirror erases route identity; two different sources merge on wrapper number alone; division branch is not reversible when metadata is present
 - **gate:** YELLOW translator / GREEN geometry
 - **last kick:** 2026-09-14
+- **status:** repo created; model + tests in rabbit_hopping.py; unresolved: fractional-division policy, inversion-wrapper coupling, zero-crossing transition rule
