@@ -21,6 +21,7 @@ No control but self-control. The library does not decide. It remembers where the
 | [BUCKET-R2](cards/BUCKET-R2.md) | [BUCKET-R2](https://github.com/One-Wave-Universe/BUCKET-R2) | tool for **show** |
 | [One-Wave-Science](cards/One-Wave-Science.md) | [One-Wave-Science](https://github.com/One-Wave-Universe/One-Wave-Science) | node bible, gate ladder |
 | [hive-pipe](cards/hive-pipe.md) | [hive-pipe](https://github.com/One-Wave-Universe/hive-pipe) | tool: carry a message |
+| [RABBIT-HOPPING](cards/RABBIT-HOPPING.md) | [RABBIT-HOPPING](https://github.com/One-Wave-Universe/RABBIT-HOPPING) | reversible packet translator: source fixed, center moves, wrappers retained |
 
 The millivolt ternary folder still exists on GitHub if you want the circuit notes. It is not a runtime noun and not on this shelf.
 
